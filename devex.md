@@ -11,5 +11,11 @@ It's fit for medium and large games.
 #### Pure Lua & agnosticlib
 You can also program your game in pure Lua with agnosticlib.
 You can use your own IDE or Code Editor for this.
+This is fit for huge games.
 Modules must be added to your program manually.
 Use the Agnostic CLI to init your project folder.
+#### Custom language
+You can use a custom language.
+This is fit for medium-sized games.
+Not recommended or supported.
+Game must be reviewed by Agnostic Staff.
